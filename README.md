@@ -25,3 +25,12 @@
     - [ ] Main author for each section create develop branch the .md file and commit both to the main branch to show it is started
     - [ ] Secondary author add the header for each task into the .md file on a feature branch and commit it to the develop branch
 
+### Step 4: Main body of each task
+    1 [ ] Add a main heading and small description of what the task will entail
+    2 [ ] Add links to all articles that will be used as footnotes syntax
+    3 [ ] After the description of the task start by creating a feature branch for the sub-task and adding sub-headings for each article that will be described in the article
+    4 [ ] Under each subheading go through your thoughts on the article and what the author recommends
+    5 [ ] End each sub-section by giving a short list of the main learnings from the subsection
+    6 [ ] Repeat steps 3-5 for each of the sub-sections
+    7 [ ] After all subsections create a feature branch to close out the task, go through the overall main learnings from the task in bullet point version
+    
