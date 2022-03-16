@@ -8,3 +8,6 @@
     - [x] Build the plan section
         - [x] Write down tasks already done
         - [ ] Come up with tasks to be done and test branch, merge etc
+
+#### Step 2: Setup each sub-file for each section of the report
+    - [ ] 
