@@ -24,7 +24,7 @@
     This article introduces some very important concepts that will be used in our rules and regulations, there is a strong emphasis on proper structure which helps everyone around the project to be able to understand the code much easier. They also help to cut down time when debugging, hence reducing the cost of development significantly
 
 
-
+### Part 2:
 
 ## Footer
 [^1]https://www.geeksforgeeks.org/coding-standards-and-guidelines/
