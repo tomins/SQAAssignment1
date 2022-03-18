@@ -31,5 +31,21 @@ In scrum projects, estimation is done by the entire team during sprint planning 
 #### Overview
 Planning poker is a simple yet effecient method of estimating tasks in Scrum. It allows for a discussions to be made which means an agreement can be made by all team members. 
 
+### Part 2: The Challenges of Task Estimation[^2[^3]
+
+While there are many benefits to estimating tasks in scrum, it can be quite challenging to accurately decide on an accurate estimation and may lead to incurrate estimations.
+
+#### Factors
+##### Pressure 
+- There may be a lot of pressure on the team to complete the project and improve their performance. The pressure may be a result of outside sources such as management or external stakeholders. It may also be interal and pressure coming from the team itself or a particular person on the team. This pressure may lead to a team inflating story points which creates and illusion that the team can handle more or are doing more work than is actually being done. 
+
+##### Uncertainties 
+- A team member's uncertainities and insecurities can impact the team's judgement during estimation. For example, a team member could be new to the team and may feel uncomfortable or insecure and not know their place. This may lead to them inflating their estimation which would cover the worst possible scenario and may not actually be accurate to their abilities. As a result of this it impacts the overall amount of stories the team can have without being out of bounds of their limit. 
+
+##### User Communication
+- This may be a result of poor communication on the part of the customer. If a customer is not specific from the start as to what the specifics of what the project is and what it should entail, it could lead to issues later on as an estimation may end up being more difficult than the customer intially led on to believe.
+
 ## Footer
 [^1]https://www.tutorialspoint.com/scrum/scrum_estimation.htm#:~:text=Advertisements,Time%20Box%20of%20the%20Sprint.
+[^2]https://www.agilequalitymadeeasy.com/post/challenges-with-estimations-in-agile-projects-david-tzemach
+[^31https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
