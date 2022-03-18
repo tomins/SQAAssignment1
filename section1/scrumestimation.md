@@ -1,3 +1,3 @@
 # Scrum Estimation
 ## Primary Author - Tami Adeduntan
-### Secondary Author - Thomas Cummins
+### Secondary Author - Thomas Cumins
