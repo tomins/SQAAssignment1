@@ -45,7 +45,25 @@ While there are many benefits to estimating tasks in scrum, it can be quite chal
 ##### User Communication
 - This may be a result of poor communication on the part of the customer. If a customer is not specific from the start as to what the specifics of what the project is and what it should entail, it could lead to issues later on as an estimation may end up being more difficult than the customer intially led on to believe.
 
+### Part 3: Improve Estimates [^4]
+There are many tips that can be implemented to help a team impprove their task estimation 
+##### Everyone Estimate
+- Task estimation is a very team orientated task, it is very important that everyoe estimates how long it will take them to do the work.
+- Allows the team to properly discuss why each person thinks it will take that amount of time and decide on a middle ground
+- Relying on one persons estimate can lead to inaccurate estimation as they may not be aware of the other members capabilties
+
+##### Commitment
+-   Estimate doesn't mean has to be required exactly in that amount of time
+-   Is flexible and can be changed as a result of multiple factors
+-   Mixing estimation and commitment may lead to inacurrate estimations out of fear of not completing it in the allocated time, can also cause low quality work
+
+##### Skillful Estimation
+- Decide on a limit for story point
+- If a story is beyond the limit try breaking it down into smaller stories
+- Discuss what everyone feels they can achieve in a certain amount of time
+
 ## Footer
 [^1]https://www.tutorialspoint.com/scrum/scrum_estimation.htm#:~:text=Advertisements,Time%20Box%20of%20the%20Sprint.
 [^2]https://www.agilequalitymadeeasy.com/post/challenges-with-estimations-in-agile-projects-david-tzemach
-[^31https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
+[^3]https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
+[^4]https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/
