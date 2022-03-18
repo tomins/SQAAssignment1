@@ -22,7 +22,7 @@ In scrum projects, estimation is done by the entire team during sprint planning 
 - the high and low estimates are discussed and give their reason for estimating so while the moderator takes notes
 - the process is repeated until the estimates merge to one estimate that will be used for the story
 
-#### Benefits
+##### Benefits
 - it combines three methods of estimation: Expert Opinion, Analogy and Disaggregation 
 - expert opinion involves asking an expert how long something will take
 - analogy compares user stories to similar ones created before
