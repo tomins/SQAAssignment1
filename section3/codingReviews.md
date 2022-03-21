@@ -71,7 +71,6 @@
     - 9. Make goals and expectations clear
 
 
-
 ## Footer
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
 [^2]https://www.browserstack.com/guide/code-review-benefits
