@@ -63,9 +63,61 @@ Coding standards are absolutely vital for the success of the team, 40%-80% of th
 #### **Synopsis**
 Coding standards are yet again shown to be a hugely important part of a development team, especially in the long term where it it highly likely that a different team will have to maintain the code that has been written.
 
+
+
+### Part 4: Coding Standards & Best Practices To Follow[^4]
+In this article, some of the prime applications are defined and should be observed in order to produce cleaner, more readable and more efficient code with fewer mistakes.
+
+#### **Focus on code readability**
+- Divide code blocks into paragraphs within the same section.
+- Don't employ functions that are too long. A single function should ideally perform a single task.
+- Write as few lines as possible.
+- Deep nesting should be avoided. Code becomes more difficult to comprehend and follow when there are too many levels of nesting.
+- To distinguish SQL special terms and function names from table and column names, capitalize them.
+- Use the DRY principle (Don't Repeat Yourself). When possible, automate repetitious tasks. In the script, the same line of code should not be repeated.
+
+#### **Make daily backups second nature**
+- Data loss can be caused by a variety of factors, including system crashes, dead batteries, software glitches, and hardware damage. 
+- To avoid this, save your code every day and after every change, no matter how minor. 
+- SVN, TFS, or any other version control system can be used to save the workflow.
+
+#### **Attempt to systematize Exception Handling**
+When exceptions occur, employ the following strategies to minimize the impact on overall performance in terms of both time and development effort:
+- Maintain the code in a try-catch block.
+- Verify that auto recovery is turned on and ready to utilize.
+- Consider whether the problem is caused by slow software or a slow network. Allow a few moments for the essential elements to appear.
+- Utilise a real-time log analysis.
+
+#### **Don't use the same identifier for different reasons**
+- Give each variable a name that accurately defines its function. 
+- A single variable, of course, cannot have multiple values or be used for several functions. 
+- This would be perplexing to anyone viewing the code, and future additions would be more complex to implement. 
+- Assign distinctive variable names at all times.
+
+
+
+### Part 5: 3 Good and Bad Ways to Write Team Coding Standards and Conventions[^5]
+
+#### **The challenges of team coding conventions**
+This article outlines how the absence of coding norms and standards has an impact on teamwork, quality, and production. Work is also unsustainable due to a lack of coding standards.
+Here's a partial list of the issues that can arise when they are missing:
+
+- It degrades the code's quality.
+- Time is wasted.
+- It makes everyone's job less enjoyable.
+- Collaboration around code becomes increasingly challenging when topics are recurring.
+- Depending on who developed the code, there will be inconsistencies in the style. When reading the code, this adds a little mental strain.
+- Open and/or inner source is made more difficult by inconsistent and undocumented styles. People will have a harder time contributing useful pull requests.
+- Additionally, the cost of common code ownership rises. It can make parts of the code the sole responsibility of a single developer in extreme instances.
+
+
 ## Footer
 [^1]https://www.geeksforgeeks.org/coding-standards-and-guidelines/
 
 [^2]https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05
 
 [^3]https://svitla.com/blog/why-where-and-when-to-use-coding-conventions
+
+[^4]https://www.browserstack.com/guide/coding-standards-best-practices
+
+[^5]https://philippe.bourgau.net/3-good-and-bad-ways-to-write-team-coding-standards-and-conventions
