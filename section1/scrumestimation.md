@@ -31,6 +31,9 @@ In scrum projects, estimation is done by the entire team during sprint planning 
 #### Overview
 Planning poker is a simple yet effecient method of estimating tasks in Scrum. It allows for a discussions to be made which means an agreement can be made by all team members. 
 
+![image](https://user-images.githubusercontent.com/55706936/159274857-0fe379a8-f7f9-4d82-babb-dc28581228af.png)
+
+
 ### Part 2: The Challenges of Task Estimation[^2][^3]
 
 While there are many benefits to estimating tasks in scrum, it can be quite challenging to accurately decide on an accurate estimation and may lead to incurrate estimations.
