@@ -70,4 +70,4 @@ The following are some of the best techniques for code review:
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
 [^2]https://www.browserstack.com/guide/code-review-benefits
 [^3]https://www.perforce.com/blog/qac/9-best-practices-for-code-review
-[^4]https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/
+[^4]https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better
