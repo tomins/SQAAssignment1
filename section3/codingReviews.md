@@ -3,9 +3,10 @@
 ### Secondary Author - Tami Adeduntan
 
 ### **Task Description**  
-The objective of code review is for software developers to identify and fix bugs before the code is released to the public. However, code review can do more than just resolve problems; it can also enhance code quality, reduce reliance on QA, save money, and boost engineering development and knowledge exchange in general. For software development teams, code reviews are a widely regarded best practice. This article goes through why the most successful teams employ code reviews and how to include them into your development process.
+The objective of code review is for software developers to identify and fix bugs before the code is released to the public. However, code review can do more than just resolve problems; it can also enhance code quality, reduce reliance on QA, save money, and boost engineering development and knowledge exchange in general. For software development teams, code reviews are a widely regarded best practice.
 
 ### Part 1: A Complete Guide to Code Reviews[^1]
+This article goes through why the most successful teams employ code reviews and how to include them into your development process.
 
 #### The Four Whys of Code Reviews
 The following are the objectives of code reviews:
@@ -28,6 +29,7 @@ The following are the objectives of code reviews:
 - When it comes to peers providing comments on one other's work, social interactions must be considered. It's a tough job that necessitates everyone's participation. Make sure to properly consult and educate your staff on communication methods to maximize the chances of success.
 
 ### Part 2: Understanding Code Review and its Benefits[^2]
+In this article, some of the benefits of doing a code review as well as a better comprehension of code review are defined. 
       
 #### Benefits of Code Review
 
@@ -44,9 +46,9 @@ The following are the objectives of code reviews:
 - Whenever it comes to code optimization, code review assists younger developers in identifying areas for improvement. Because they lack the necessary knowledge, younger developers are ignorant of various code optimization strategies that can assist them in writing clean code. The code review process allows them to get valuable input from senior engineers and, as a result, improve their coding skills. It also aids in the detection of important faults or blunders that can lead to serious issues. By allowing a second set of eyes to analyze each code unit, code review aids in the elimination of errors before moving on to the following phase. If there are any errors, the reviewer double-checks them and fixes them.
 
 ### Part 3: Best Practices for Code Review[^3]
+This article identifies the prime practices to undertake for code review in order to produce better code.
 
 #### 9 Best Practices for Code Review
-The following are some of the best techniques for code review:
 
 - 1. Understand what to look for when conducting a code review
 - 2. Prior to review, create and test
@@ -99,6 +101,15 @@ Code review tools help teams when they are working on a project together.They ca
 
 *An example of a code review in Github*
 ![image](https://user-images.githubusercontent.com/55706936/159305067-c3a4157e-8034-4452-ba1b-4665f8334bf0.png)
+
+### **Overview**  
+In conclusion, the most popular approach for assessing feature design and implementation is code review. It enables developers to maintain uniformity across numerous team members' design and execution "styles" as well as across different projects on which the organization is engaged.
+It is important to:
+
+- be aware of the four whys of code reviews
+- acknowledge the benefits, best practices and various tools of code reviews
+- know how to adopt code reviews 
+- understand how code reviews can be improved
 
 
 ## Footer
