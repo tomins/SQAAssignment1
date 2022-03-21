@@ -31,7 +31,7 @@ In scrum projects, estimation is done by the entire team during sprint planning 
 #### Overview
 Planning poker is a simple yet effecient method of estimating tasks in Scrum. It allows for a discussions to be made which means an agreement can be made by all team members. 
 
-### Part 2: The Challenges of Task Estimation[^2[^3]
+### Part 2: The Challenges of Task Estimation[^2][^3]
 
 While there are many benefits to estimating tasks in scrum, it can be quite challenging to accurately decide on an accurate estimation and may lead to incurrate estimations.
 
@@ -62,8 +62,25 @@ There are many tips that can be implemented to help a team impprove their task e
 - If a story is beyond the limit try breaking it down into smaller stories
 - Discuss what everyone feels they can achieve in a certain amount of time
 
+### Part 2: Atlassian Story Points and Estimation [^5]
+Task estimation is amoung the hardest jobs for a software development team. It takes into acccount a massive amount of factors and is constantly changing based on who is on the team and the priority of the project.
+
+
+#### Factors
+##### Estimation is a team sport
+- Every member of a dev team brings a different perspective and set of skills, for a example a web developer might give a different estimation to that of a graphic designer. This is why its vital to involve everyone as there might be things that only some team members know enough abot to estimate properly.
+
+##### Story Points vs Hours
+- Hours of work and Story points are not the same thing. Story points includes many factors including the risk of the point, meaning there is a chance that implementing this item might break the code somewhere else.
+
+
+##### Learn from past estimates
+- Scrum retrospectives are a very important part of a scrum team as they allow us to learn from mistakes or things well done in previous scrum itterations allowing for more accurate estimation than in the past.
+
+
 ## Footer
 [^1]https://www.tutorialspoint.com/scrum/scrum_estimation.htm#:~:text=Advertisements,Time%20Box%20of%20the%20Sprint.
 [^2]https://www.agilequalitymadeeasy.com/post/challenges-with-estimations-in-agile-projects-david-tzemach
 [^3]https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
 [^4]https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/
+[^5]https://www.atlassian.com/agile/project-management/estimation
