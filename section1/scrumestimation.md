@@ -48,8 +48,11 @@ While there are many benefits to estimating tasks in scrum, it can be quite chal
 ##### User Communication
 - This may be a result of poor communication on the part of the customer. If a customer is not specific from the start as to what the specifics of what the project is and what it should entail, it could lead to issues later on as an estimation may end up being more difficult than the customer intially led on to believe.
 
+#### Overview
+There are many issues that may arise and interfere with task estimation. It is important to understand that by being aware of these problems, the team can understand how they make affect their estimation and try and avoid such from doing so. 
+
 ### Part 3: Improve Estimates [^4]
-There are many tips that can be implemented to help a team impprove their task estimation 
+There are many tips that can be implemented to help a team improve their task estimation 
 ##### Everyone Estimate
 - Task estimation is a very team orientated task, it is very important that everyoe estimates how long it will take them to do the work.
 - Allows the team to properly discuss why each person thinks it will take that amount of time and decide on a middle ground
@@ -65,6 +68,9 @@ There are many tips that can be implemented to help a team impprove their task e
 - If a story is beyond the limit try breaking it down into smaller stories
 - Discuss what everyone feels they can achieve in a certain amount of time
 
+#### Overview
+By applying these tips to improve estimates and make them more accurate, the team can achieve more success in the devlopment of their projects. 
+
 ### Part 4: Atlassian Story Points and Estimation [^5]
 Task estimation is amoung the hardest jobs for a software development team. It takes into acccount a massive amount of factors and is constantly changing based on who is on the team and the priority of the project.
 
@@ -75,7 +81,6 @@ Task estimation is amoung the hardest jobs for a software development team. It t
 
 ##### Story Points vs Hours
 - Hours of work and Story points are not the same thing. Story points includes many factors including the risk of the point, meaning there is a chance that implementing this item might break the code somewhere else.
-
 
 ##### Learn from past estimates
 - Scrum retrospectives are a very important part of a scrum team as they allow us to learn from mistakes or things well done in previous scrum itterations allowing for more accurate estimation than in the past.
