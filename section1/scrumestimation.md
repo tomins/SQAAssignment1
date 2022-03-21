@@ -62,7 +62,7 @@ There are many tips that can be implemented to help a team impprove their task e
 - If a story is beyond the limit try breaking it down into smaller stories
 - Discuss what everyone feels they can achieve in a certain amount of time
 
-### Part 2: Atlassian Story Points and Estimation [^5]
+### Part 4: Atlassian Story Points and Estimation [^5]
 Task estimation is amoung the hardest jobs for a software development team. It takes into acccount a massive amount of factors and is constantly changing based on who is on the team and the priority of the project.
 
 
@@ -77,6 +77,18 @@ Task estimation is amoung the hardest jobs for a software development team. It t
 ##### Learn from past estimates
 - Scrum retrospectives are a very important part of a scrum team as they allow us to learn from mistakes or things well done in previous scrum itterations allowing for more accurate estimation than in the past.
 
+### Part 5: Medium How to estimate in Story Points
+Estimation is best done on relative terms rather than literals because it cuts down on frustration and focuses on the problem.
+
+#### Factors
+##### Managers Perspective
+- A product owner is dealing with customer demands as well as scrum team estimation so it is important for them to have a clear picture of how the project is developing from start to finish for the customer as well as what elements are the most difficult for the team to complete.
+
+##### Fibonacci numbers
+- The easiest way to estimate a task, eachof the numbers is the sum of the two before it. This helps as it shows the relativety f task difficulty.
+
+##### Planning Poker
+- The best way to have a team pick scrum eatimations. Give each of the team members a set of cards with fibonacci numbers on them and have them put one card down for each task. Have them keep a poker face while picking a card so as to ensure there is no bias in place. THis is made even easier now with zoom calls rather than in person meetings!
 
 ## Footer
 [^1]https://www.tutorialspoint.com/scrum/scrum_estimation.htm#:~:text=Advertisements,Time%20Box%20of%20the%20Sprint.
@@ -84,3 +96,4 @@ Task estimation is amoung the hardest jobs for a software development team. It t
 [^3]https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
 [^4]https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/
 [^5]https://www.atlassian.com/agile/project-management/estimation
+[^6]https://medium.com/serious-scrum/how-to-estimate-in-story-points-ec3ffe6d43f5
