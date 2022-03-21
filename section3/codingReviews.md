@@ -65,9 +65,29 @@ The following are some of the best techniques for code review:
 - Communication: Leave however many comments or questions you have so you can understand. However try and avoid having back and forth conversations in the comments. As a code reviewer do not hesitate to reach out to the person if there is a lot of comments and questions and progress is not being made from discussing them in the code review. This saves a lot of time and misunderstanding. 
 - Location: If the perople are located in different offices or time zones it's very important to be aware of this. Try and make code reviews during the overlapping time between timezones so there is less of a wait between change. If a review requires a lot of comments and questions, as stated before it may be easier to reach out for a call or message them directly. 
 
+### Part 5: Code Review Tools[^5]
+Code review tools help teams when they are working on a project together.They can be used to help keep the code to a high quality and make sure it's consistent throughout. They can make communication between the reviewer and coder easier and can help with intergration and keeping record. 
+
+#### Types of Code Review Tools
+- 1. Bundled vs Standalone - bundled in suites that contain other features 
+- 2. VCS Support - allow for version control support
+- 3. Workflows - support specific workflows
+- 4. Automation Features - automate the review process
+
+#### Best Code Review Tools
+- 1. Github
+- 2. GitLab
+- 3. Bitbucket
+
+#### How to Choose a Tool
+- Pick one that is easier to adapt to pre-existing workflows and that can intergrate with ease 
+- Simple navigation that doesn't making the review process more tedious than required
+- Compatible with team's development process
+
 
 ## Footer
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
 [^2]https://www.browserstack.com/guide/code-review-benefits
 [^3]https://www.perforce.com/blog/qac/9-best-practices-for-code-review
 [^4]https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better
+[^5]https://blog.jetbrains.com/space/2021/12/15/best-code-review-tools/
