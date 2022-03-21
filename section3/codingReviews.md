@@ -114,7 +114,11 @@ It is important to:
 
 ## Footer
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
+
 [^2]https://www.browserstack.com/guide/code-review-benefits
+
 [^3]https://www.perforce.com/blog/qac/9-best-practices-for-code-review
+
 [^4]https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better
+
 [^5]https://blog.jetbrains.com/space/2021/12/15/best-code-review-tools/
