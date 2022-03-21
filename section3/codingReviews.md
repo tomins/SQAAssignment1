@@ -71,6 +71,9 @@
     - 9. Make goals and expectations clear
 
 
+### Part 4: How to Improve Code Reviews[^4]
+
+
 ## Footer
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
 [^2]https://www.browserstack.com/guide/code-review-benefits
