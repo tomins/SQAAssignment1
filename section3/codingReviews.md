@@ -99,6 +99,9 @@ Code review tools help teams when they are working on a project together.They ca
 - Simple navigation that doesn't making the review process more tedious than required
 - Compatible with team's development process
 
+*An example of a code review in Github*
+![image](https://user-images.githubusercontent.com/55706936/159305067-c3a4157e-8034-4452-ba1b-4665f8334bf0.png)
+
 
 ## Footer
 [^1]https://www.swarmia.com/blog/a-complete-guide-to-code-reviews
