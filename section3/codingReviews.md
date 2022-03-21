@@ -70,12 +70,12 @@ The following are some of the best techniques for code review:
 -  Make it clear what changes should be changed and what changes are approved.
 
 
-**Communication: **
+**Communication**
 - Leave however many comments or questions you have so you can understand. 
 - However try and avoid having back and forth conversations in the comments. As a code reviewer do not hesitate to reach out to the person if there is a lot of comments and questions and progress is not being made from discussing them in the code review. This saves a lot of time and misunderstanding. 
 
 
-**Location ** 
+**Location** 
 - If the perople are located in different offices or time zones it's very important to be aware of this. 
 - Try and make code reviews during the overlapping time between timezones so there is less of a wait between change.
 -  If a review requires a lot of comments and questions, as stated before it may be easier to reach out for a call or message them directly. 
