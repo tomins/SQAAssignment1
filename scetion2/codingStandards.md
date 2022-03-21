@@ -111,6 +111,14 @@ Here's a partial list of the issues that can arise when they are missing:
 - Additionally, the cost of common code ownership rises. It can make parts of the code the sole responsibility of a single developer in extreme instances.
 
 
+## Overview
+Having a standard set of rules for a team to go off is absolutely essential for the success of the team. From the articles above here are our main points to remember for coding as part of a team:
+- Have clearly defined naming conventions
+- Include clear comments at every avaliable step
+- Think about the programmer looking at the code in 10 years time
+- Use a system to control error handling
+- Have well defined testing schemas in place.
+
 ## Footer
 [^1]https://www.geeksforgeeks.org/coding-standards-and-guidelines/
 
