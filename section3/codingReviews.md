@@ -9,7 +9,6 @@
     This article goes through why the most successful teams employ code reviews and how to include them into your development process.
 
 
-
 ### Part 1: A Complete Guide to Code Reviews[^1]
 
 #### **The Four Whys of Code Reviews**
@@ -36,7 +35,6 @@
       Make sure to properly consult and educate your staff on communication methods to maximize the chances of success.
 
 
-
 ### Part 2: Understanding Code Review and its Benefits[^2]
       
 #### **Benefits of Code Review**
@@ -56,8 +54,6 @@
       By allowing a second set of eyes to analyze each code unit, code review aids in the elimination of errors before moving on to the following phase. If there are any errors, the
       reviewer double-checks them and fixes them.
    
-
-
 
 ### Part 3: Best Practices for Code Review[^3]
 
