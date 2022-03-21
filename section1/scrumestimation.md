@@ -28,7 +28,7 @@ In scrum projects, estimation is done by the entire team during sprint planning 
 - Analogy compares user stories to similar ones created before
 - Disaggregation involves splitting the user story into smaller stories that would be easier to estimate
 
-#### Overview
+#### Synopsis
 Planning poker is a simple yet effecient method of estimating tasks in Scrum. It allows for a discussions to be made which means an agreement can be made by all team members. 
 
 ![image](https://user-images.githubusercontent.com/55706936/159274857-0fe379a8-f7f9-4d82-babb-dc28581228af.png)
@@ -48,7 +48,7 @@ While there are many benefits to estimating tasks in scrum, it can be quite chal
 ##### User Communication
 - This may be a result of poor communication on the part of the customer. If a customer is not specific from the start as to what the specifics of what the project is and what it should entail, it could lead to issues later on as an estimation may end up being more difficult than the customer intially led on to believe.
 
-#### Overview
+#### Synopsis
 There are many issues that may arise and interfere with task estimation. It is important to understand that by being aware of these problems, the team can understand how they make affect their estimation and try and avoid such from doing so. 
 
 ### Part 3: Improve Estimates [^4]
@@ -68,12 +68,11 @@ There are many tips that can be implemented to help a team improve their task es
 - If a story is beyond the limit try breaking it down into smaller stories
 - Discuss what everyone feels they can achieve in a certain amount of time
 
-#### Overview
+#### Synopsis
 By applying these tips to improve estimates and make them more accurate, the team can achieve more success in the devlopment of their projects. 
 
 ### Part 4: Atlassian Story Points and Estimation [^5]
 Task estimation is amoung the hardest jobs for a software development team. It takes into acccount a massive amount of factors and is constantly changing based on who is on the team and the priority of the project.
-
 
 #### Factors
 ##### Estimation is a team sport
@@ -85,7 +84,7 @@ Task estimation is amoung the hardest jobs for a software development team. It t
 ##### Learn from past estimates
 - Scrum retrospectives are a very important part of a scrum team as they allow us to learn from mistakes or things well done in previous scrum itterations allowing for more accurate estimation than in the past.
 
-### Part 5: Medium How to estimate in Story Points
+### Part 5: Medium - How to Estimate in Story Points[^6]
 Estimation is best done on relative terms rather than literals because it cuts down on frustration and focuses on the problem.
 
 #### Factors
@@ -96,12 +95,24 @@ Estimation is best done on relative terms rather than literals because it cuts d
 - The easiest way to estimate a task, eachof the numbers is the sum of the two before it. This helps as it shows the relativety f task difficulty.
 
 ##### Planning Poker
-- The best way to have a team pick scrum eatimations. Give each of the team members a set of cards with fibonacci numbers on them and have them put one card down for each task. Have them keep a poker face while picking a card so as to ensure there is no bias in place. THis is made even easier now with zoom calls rather than in person meetings!
+- The best way to have a team pick scrum eatimations. Give each of the team members a set of cards with fibonacci numbers on them and have them put one card down for each task. Have them keep a poker face while picking a card so as to ensure there is no bias in place. This is made even easier now with zoom calls rather than in person meetings!
+
+### Overview
+Task estimation is a very vital aspect of project development. It can lead to great success for the teamon the rpoject, while also imporving interpersonal skills as a result of the communication. The main points to remeber from the articles are:
+- The different estimating techniques - planning poker being the most popular 
+- The importance of accurate task estimation
+- Acknowledging the challenges of task estimation and overcoming them
+- Best way of estimating story points
 
 ## Footer
 [^1]https://www.tutorialspoint.com/scrum/scrum_estimation.htm#:~:text=Advertisements,Time%20Box%20of%20the%20Sprint.
+
 [^2]https://www.agilequalitymadeeasy.com/post/challenges-with-estimations-in-agile-projects-david-tzemach
+
 [^3]https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra
+
 [^4]https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/
+
 [^5]https://www.atlassian.com/agile/project-management/estimation
+
 [^6]https://medium.com/serious-scrum/how-to-estimate-in-story-points-ec3ffe6d43f5
