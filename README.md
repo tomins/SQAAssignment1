@@ -28,15 +28,21 @@
 ### Step 4: Main body of each task
 1 [x] Add a main heading and small description of what the task will entail
 
-2 [ ] Add links to all articles that will be used as footnotes syntax
+2 [x] Add links to all articles that will be used as footnotes syntax
 
-3 [ ] After the description of the task start by creating a feature branch for the sub-task and adding sub-headings for each article that will be described in the article
+3 [x] After the description of the task start by creating a feature branch for the sub-task and adding sub-headings for each article that will be described in the article
 
-4 [ ] Under each subheading go through your thoughts on the article and what the author recommends
+4 [x] Under each subheading go through your thoughts on the article and what the author recommends
 
-5 [ ] End each sub-section by giving a short list of the main learnings from the subsection
+5 [x] End each sub-section by giving a short list of the main learnings from the subsection
 
-6 [ ] Repeat steps 3-5 for each of the sub-sections
+6 [x] Repeat steps 3-5 for each of the sub-sections
 
-7 [ ] After all subsections create a feature branch to close out the task, go through the overall main learnings from the task in bullet point version
-    
+7 [x] After all subsections create a feature branch to close out the task, go through the overall main learnings from the task in bullet point version
+
+
+# Things we would do differently if we were to restart
+- Structure the git hub merge process better in our plan
+- Place more emphasis on comments in the pull requests
+- Create a feature branch for each article discussed
+- Get more input from each team member in the planning process
